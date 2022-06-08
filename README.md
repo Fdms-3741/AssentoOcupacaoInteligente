@@ -6,13 +6,15 @@ O objetivo é servir como uma medida de segurança para que os usuários não se
 
 ## Funcionalidades
 
-O sensor possui as seguintes características:
+Esse projeto terá: 
 
-* Detecção 
+* Versão do servidor para Linux e Windows
+* Identificação de cada cadeira
+* Uso do servidor para configuração do acesso à rede do sensor
+* Autenticação na comunicação
 
 ## Conteúdos do repositório e ferramentas de acesso
 
 * `diagram/`: Todos os esquemáticos envolvendo o circuito. Programas utilizados serão o KiCAD e o LTSpice.
 * `server/`: Código da aplicação do servidor
 * `controller/`: Código do controlador
-
