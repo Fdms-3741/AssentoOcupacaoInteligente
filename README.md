@@ -30,7 +30,8 @@ Esse projeto terá:
 
 ## Componentes utilizados
 
-* Sensor de pressão resistivo
+* [Sensor de pressão resistivo](https://pt.aliexpress.com/item/1005003668804679.html)
+![]()
 * Esp8266
 * Portas lógicas e componentes de circuito básicos
 
