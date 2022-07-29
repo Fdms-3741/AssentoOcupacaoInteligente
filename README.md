@@ -38,6 +38,8 @@ Esse projeto terá:
 
 ## Circuito
 
+![](https://github.com/Fdms-3741/AssentoOcupacaoInteligente/blob/main/CircuitoMC.png)
+
 ## Trabalhos futuros
 
 Atualmente existem alguns problemas que ainda não foram resolvidos. Como a segurança da comuninação entre o microcontrolador e o computador e o custo de instalação em uma cadeira que, por usar um microcontrolador, fica um pouco caro. Futuramente seria interessante buscar uma forma mais barata de se implementar o projeto.
