@@ -18,3 +18,9 @@ Esse projeto terá:
 * `diagram/`: Todos os esquemáticos envolvendo o circuito. Programas utilizados serão o KiCAD e o LTSpice.
 * `server/`: Código da aplicação do servidor
 * `controller/`: Código do controlador
+
+## Esquema de funcionamento
+
+![alt text](https://drive.google.com/file/d/1dOsLlRNoQ9tCAtdlTEjP2zMwuHBQS1eM/view?usp=sharing)
+
+## Circuito
