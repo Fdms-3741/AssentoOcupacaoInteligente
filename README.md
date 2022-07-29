@@ -42,6 +42,6 @@ Esse projeto terá:
 
 ## Trabalhos futuros
 
-Atualmente existem alguns problemas que ainda não foram resolvidos. Como a segurança da comuninação entre o microcontrolador e o computador e o custo de instalação em uma cadeira que, por usar um microcontrolador, fica um pouco caro. Futuramente seria interessante buscar uma forma mais barata de se implementar o projeto.
+Atualmente existem alguns problemas que ainda não foram resolvidos. Como a segurança da comuninação entre o microcontrolador e o computador e o custo de instalação em uma cadeira que, por usar um microcontrolador, fica um pouco caro. Futuramente seria interessante buscar uma forma mais barata de se implementar o projeto. Além disso a porta de reset do microcontrolador queimou e não foi possível usar o modo de deepsleep, que economizaria bateria.
 
 ## Vídeo de demonstração:
