@@ -31,8 +31,9 @@ Esse projeto terá:
 ## Componentes utilizados
 
 * [Sensor de pressão resistivo](https://pt.aliexpress.com/item/1005003668804679.html)
-![]()
-* Esp8266
+![](https://github.com/Fdms-3741/AssentoOcupacaoInteligente/blob/main/Sensor.png)
+* [Esp8266](https://github.com/nodemcu/nodemcu-devkit-v1.0)
+![](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)
 * Portas lógicas e componentes de circuito básicos
 
 ## Circuito
