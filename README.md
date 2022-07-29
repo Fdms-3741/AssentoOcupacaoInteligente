@@ -28,6 +28,11 @@ Esse projeto terá:
 
 ![](https://github.com/Fdms-3741/AssentoOcupacaoInteligente/blob/main/Img2.png)
 
+## Componentes utilizados
+
+* Sensor de pressão resistivo
+* Esp8266
+* Portas lógicas e componentes de circuito básicos
 
 ## Circuito
 
