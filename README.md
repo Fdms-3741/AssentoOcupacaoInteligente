@@ -21,6 +21,11 @@ Esse projeto terá:
 
 ## Esquema de funcionamento
 
-![alt text](https://drive.google.com/file/d/1dOsLlRNoQ9tCAtdlTEjP2zMwuHBQS1eM/view?usp=sharing)
+![](https://github.com/Fdms-3741/AssentoOcupacaoInteligente/blob/main/Img1.png)
+
+## Grafo de execução
+
+
+![](https://github.com/Fdms-3741/AssentoOcupacaoInteligente/blob/main/Img2.png)
 
 ## Circuito
